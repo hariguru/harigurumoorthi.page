@@ -1,16 +1,3 @@
----
-date: 2018-06-21 00:00:00
-title: The Art of Continuous Cleansing in DevOps
-categories:
-  - DevOps
-description: >-
-  First step in DevOps journey is to identify the "Waste" and have continuous
-  cleansing process to remove the non value added efforts. Organization emerge
-  successfully as sculpture reveal the idol from a raw stone by remove the
-  unwanted scraps.
-type: Document
----
-
 ## The Art of Continuous Cleansing
 
 A few months back I happened to travel in a bus with a Vedic scholar down south India. He was an energetic and enthusiastic personality in his late 40’s and his eyes seemed to have a positive outlook at life. Among many other topics that we discussed, one was about Veda’s insistence on purification of mind and body on daily basis. He verbalized some hymns almost for 2 hours. Most of them were quite intense to me, but the following point struck me.
