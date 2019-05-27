@@ -1,3 +1,53 @@
-url: https://harigurumoorthi.page
+# Site settings
+title: Hari 
+description: Hari Knowledge bits
+baseurl:  "/harigurumoorthi.page" # the subpath of your site, e.g. /blog
+url: "https://harigurumoorthi.page"
 enforce_ssl: harigurumoorthi.page
-theme: jekyll-theme-slate
+# repository: YoussefRaafatNasry/portfolYOU
+remote_theme: YoussefRaafatNasry/portfolYOU
+
+# Build settings
+markdown: kramdown
+# plugins:
+# - jekyll-feed
+
+
+# Author Info
+author:
+  name     : Hari
+  image    : https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg
+  email    : hari.gurumoorthi@gmail.com
+  github   : hariguru
+  twitter  : tweetofhari
+  linkedin : username
+  facebook : username
+
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+# Default values for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+# Posts default Permalink
+permalink: articles/:title
+
+
+# Exclude from processing.
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
