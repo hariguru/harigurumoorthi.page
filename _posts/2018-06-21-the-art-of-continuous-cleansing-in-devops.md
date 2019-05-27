@@ -1,8 +1,8 @@
 ---
 title: The Art of Continuous Cleansing in DevOps
 tags: [DevOps]
-style: fill
-color: info
+style: 
+color: 
 description: >-
   First step in DevOps journey is to identify the "Waste" and have continuous
   cleansing process to remove the non value added efforts. Organization emerge
