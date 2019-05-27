@@ -1,7 +1,7 @@
 # Site settings
 title: Hari 
 description: Hari Knowledge bits
-baseurl:  "/harigurumoorthi.page" # the subpath of your site, e.g. /blog
+baseurl: # "/harigurumoorthi.page" # the subpath of your site, e.g. /blog
 url: "https://harigurumoorthi.page"
 enforce_ssl: harigurumoorthi.page
 # repository: YoussefRaafatNasry/portfolYOU
