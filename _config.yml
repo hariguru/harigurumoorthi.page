@@ -1,5 +1,5 @@
 # Site settings
-title: Hari 
+title: Hari Gurumoorthi
 description: Hari Knowledge bits
 baseurl: # "/harigurumoorthi.page" # the subpath of your site, e.g. /blog
 url: "https://harigurumoorthi.page"
@@ -16,12 +16,12 @@ markdown: kramdown
 # Author Info
 author:
   name     : Hari
-  image    : https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg
+  image    : assets/hari-profile.jpg
   email    : hari.gurumoorthi@gmail.com
   github   : hariguru
   twitter  : tweetofhari
-  linkedin : username
-  facebook : username
+  linkedin : https://www.linkedin.com/in/harigurumoorthi/
+#  facebook : username
 
 
 # Collections
