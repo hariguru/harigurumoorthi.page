@@ -1,17 +1,30 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Chief Information Office, TaUB Solutions
+  from: 2017
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Challenge and Improve opportunity and delivery, customer engagement, IT strategy,
+               Gamification, Agile and DevOps practice head, Corporate Coach
+
+- title: Account Manger - Compliance Solutions, D&B Technologies & Data Service
+  from: 2011
+  to: 2017
+  description: Managing customer engagements, building JEE and .Net solutions for
+               Fortune 500 customers, building a team with peak size of 60. Exposed to 
+               ERP Solutions, Commodity and Risk Management domains. 
+
+- title: Project Manager, HTC Global Service India Pvt Ltd., India
+  from: 2006
+  to: 2011
+  description: Building JEE and .Net solutions for Fortune 500 customers, building a team 
+              with peak size of 60. Exposure to ERP Solutions, Commodity and Risk Management domains. 
+
+
+- title: Software Specialist, Patni Computer Systems, USA
+  from: 2000
+  to: 2006
+  description: I enjoyed building continuous delivery solutions for in-house products 
+               based on JEE and Microsoft stack. Challenges include code generation 
+               of model-driven development (MDD), integrations with multiple source 
+               control systems like Dimensions, Clearcase, code scanning for standards 
+               and security vulnerability, regression and dependency validation 
+               on enterprise artifacts (.dll and .jar)
+

@@ -11,9 +11,13 @@
   color: info
 
 - name: DevSecOps
-  percentage: 70
+  percentage: 50
   color: dark
 
 - name: Microservice Architecture
+  percentage: 70
+  color: info
+
+- name: Gamification
   percentage: 70
   color: info
