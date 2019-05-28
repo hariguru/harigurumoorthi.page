@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: Building Agile and DevOps Teams
   percentage: 90
-  color: danger
+  color: green
 
-- name: Go
+- name: Product Management
   percentage: 80
   color:
 
-- name: Python
+- name: Lean Practice
   percentage: 70
   color: dark
