@@ -1,11 +1,19 @@
 - name: Building Agile and DevOps Teams
-  percentage: 90
+  percentage: 80
   color: green
 
-- name: Product Management
-  percentage: 80
-  color:
+- name: Product Management & UX
+  percentage: 75
+  color: dark
 
 - name: Lean Practice
-  percentage: 70
+  percentage: 60
+  color: green
+
+- name: Digital Marketing Practice
+  percentage: 50
   color: dark
+
+- name: Delivery and Program Mangagement
+  percentage: 80
+  color: green

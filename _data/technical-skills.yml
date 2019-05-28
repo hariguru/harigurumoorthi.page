@@ -4,15 +4,15 @@
 
 - name: Continuous Delivery Architecture
   percentage: 90
-  color: success
+  color: dark
 
 - name: Blockchain - R3 Corda
   percentage: 60
-  color: success
+  color: info
 
-- name: Continuous Delivery Architecture
-  percentage: 90
-  color: blue
+- name: DevSecOps
+  percentage: 70
+  color: dark
 
 - name: Microservice Architecture
   percentage: 70
