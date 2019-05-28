@@ -8,12 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-My career since 2000 has provided me tremendous opportunities, here is what i believe my personal brand proposition. 
+My career, since 2000, has provided me with tremendous opportunities and here is what I believe my personal brand proposition is: 
 
-#### **Be a double edge Sword**
-Continuously grooming my technical and leadership skills throughout my career helped you to sustain and scale at all levels. At some point of time in our career, we need to decide how much we are hands-on and how much we should we focus on building great teams. I believe Sharpening technical and leadership skill will help to get out of comfort zone. 
+#### **Be a double edge sword**
 
-#### **Being a Student mindset**
+Continuously grooming my technical and leadership skills throughout my career helped me to sustain and scale at all levels. At some point of time in our career, we need to decide how much we should be hands-on and how much we should focus on building great teams. I believe sharpening technical and leadership skills will help to get out of comfort zone. 
+
+#### **Student mindset**
 Being curious to learn quickly has been my great strength. With current digital world, experience would help just few steps. Being humble to accept I know little works like a magic. 
 
 
