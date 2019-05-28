@@ -1,0 +1,19 @@
+- name: Data and Visual Analytics
+  percentage: 95
+  color: info
+
+- name: Continuous Delivery Architecture
+  percentage: 90
+  color: success
+
+- name: Blockchain - R3 Corda
+  percentage: 60
+  color: success
+
+- name: Continuous Delivery Architecture
+  percentage: 90
+  color: blue
+
+- name: Microservice Architecture
+  percentage: 70
+  color: info
