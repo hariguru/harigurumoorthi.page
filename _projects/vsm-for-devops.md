@@ -6,7 +6,7 @@ description: Goal of this project to provide a guidance on conducting VSM exerci
 ---
 
 # Value Stream Mapping for DevOps
-
+(In Progress)
 ## Why Value Stream Mapping for DevOps?
 Value Stream Mapping is a amazing Lean technique to visualize and optimize the DevOps flow. Main challenge of organizations is to identify the type of waste (value leakage)
 
