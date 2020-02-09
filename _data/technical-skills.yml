@@ -1,3 +1,7 @@
+- name: Azure DevOps
+  percentage: 95
+  color: dark
+
 - name: Data and Visual Analytics
   percentage: 95
   color: info
@@ -6,17 +10,13 @@
   percentage: 90
   color: dark
 
-- name: Blockchain - R3 Corda
+- name: Site Reliability Engineering
   percentage: 60
   color: info
 
 - name: DevSecOps
-  percentage: 50
+  percentage: 75
   color: dark
-
-- name: Microservice Architecture
-  percentage: 70
-  color: info
 
 - name: Gamification
   percentage: 70
