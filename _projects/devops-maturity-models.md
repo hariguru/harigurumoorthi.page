@@ -11,7 +11,7 @@ As DevOps has crossed the chasm, what is that we should look for in analyzing De
 
 ## Microsoft
 
-![Microsoft](dmm/ms-dmm.png "Microsoft DevOps Maturity")
+![Microsoft](assets/images/dmm/ms-dmm.png "Microsoft DevOps Maturity")
 
 [Source - DevOps Self-Assessment](https://www.devopsassessment.net/)
 ## Google
