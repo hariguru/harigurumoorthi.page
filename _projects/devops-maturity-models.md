@@ -1,7 +1,7 @@
 ---
 name: DevOps Maturity Models
 tools: [DevOps Maturity Assessment]
-image: https://thenextscoop.com/wp-content/uploads/2019/01/web-design-2019.jpg
+image: /assets/images/devopsmaturitymodels.jpg
 description: Goal of this simple project to collate different DevOps Maturity Models from different companies
 ---
 
@@ -9,17 +9,17 @@ description: Goal of this simple project to collate different DevOps Maturity Mo
 
 As DevOps has crossed the chasm, what is that we should look for in analyzing DevOps Maturity. Below is a simple collection of some of the DevOps.
 
-## Table of Content
-1    [Microsoft](#ms)
-2    [Google](#google)
-3    [Accenture](#accenture)
-4    [IBM](#ibm)
-5    [Agile Health Radar](agileradar)
-6    [Automation Factory](#autofactory)
-7    [Aria](#aria)
-8    [EInfoChip](#einfochip)
-9    [NIIT Tech](#niittech)
-10   [Kovair](#kovair)
+## Companies
+1.    [Microsoft](#ms)
+2.    [Google](#google)
+3.    [Accenture](#accenture)
+4.    [IBM](#ibm)
+5.    [Agile Health Radar](agileradar)
+6.    [Automation Factory](#autofactory)
+7.    [Aria](#aria)
+8.    [EInfoChip](#einfochip)
+9.   [NIIT Tech](#niittech)
+10.   [Kovair](#kovair)
 
 ## Microsoft <a name="ms"></a>
 ![Microsoft](/assets/images/dmm/ms-dmm.png "Microsoft DevOps Maturity")
