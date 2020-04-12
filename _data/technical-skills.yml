@@ -11,7 +11,7 @@
   color: dark
 
 - name: Site Reliability Engineering
-  percentage: 60
+  percentage: 70
   color: info
 
 - name: DevSecOps

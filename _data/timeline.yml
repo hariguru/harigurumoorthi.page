@@ -1,29 +1,33 @@
-- title: Principal Consultant, Azure and DevOps Architect TaUB Solutions
-  from: 2019
+- title: Principal Consultant, Azure and DevOps Architect
+  company: DevOn
+  from: 2020
   to: present
-  description: Drive DevSecOps, SRE, DevOps adoption using Azure and Azure DevOps.
+  description: Build DevOps capabilities for High Performing Teams.
 
-- title: Chief Information Office, TaUB Solutions
+- title: Principal Consultant, TaUB Solutions
+  company: TaUB Solutions
   from: 2017
-  to: 2019
+  to: 2020
   description: Challenge and Improve opportunity and delivery, customer engagement, IT strategy,
                Gamification, Agile and DevOps practice head, Corporate Coach
 
-- title: Account Manger - Compliance Solutions, D&B Technologies & Data Service
+- title: Account Manger - Compliance Solutions
+  company: D&B Technologies & Data Service
   from: 2011
   to: 2017
   description: Managing customer engagements, building JEE and .Net solutions for
                Fortune 500 customers, building a team with peak size of 60. Exposed to 
                ERP Solutions, Commodity and Risk Management domains. 
 
-- title: Project Manager, HTC Global Service India Pvt Ltd., India
+- title: Project Manager
+  company: HTC Global Service India Pvt Ltd., India
   from: 2006
   to: 2011
   description: Building JEE and .Net solutions for Fortune 500 customers, building a team 
               with peak size of 60. Exposure to ERP Solutions, Commodity and Risk Management domains. 
 
-
-- title: Software Specialist, Patni Computer Systems, USA
+- title: Software Specialist
+  company: Patni Computer Systems, USA
   from: 2000
   to: 2006
   description: I enjoyed building continuous delivery solutions for in-house products 
