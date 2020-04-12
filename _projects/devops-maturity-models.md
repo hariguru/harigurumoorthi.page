@@ -7,9 +7,9 @@ description: Goal of this simple project to collate different DevOps Maturity Mo
 
 # DevOps Maturity Model
 
-As DevOps has crossed the chasm, what is that we should look for in analyzing DevOps Maturity. Below is a simple collection of some of the DevOps
+As DevOps has crossed the chasm, what is that we should look for in analyzing DevOps Maturity. Below is a simple collection of some of the DevOps.
 
-
+*    Microsoft [#Microsoft]
 
 ## Microsoft
 
@@ -48,7 +48,7 @@ As DevOps has crossed the chasm, what is that we should look for in analyzing De
 
 ## einfochip
 ![](/assets/images/dmm/einfochip-dmm.jpg "einfochip")
-[]()
+[einfochip maturity assessment](https://www.einfochips.com/ips-frameworks/devops-maturity-assessment/)
 
 ## NIIT Technology
 ![NIIT DevOps Maturity](/assets/images/dmm/niit-dmm.png "NIIT DevOps Assessment")
@@ -60,5 +60,5 @@ As DevOps has crossed the chasm, what is that we should look for in analyzing De
 
 ## Tech Mahindra  - ADOPT (C)
 
-![](/assets/images/dmm/techm-dmm.png "Tech Mahindra Adopt")
-[Source - Tech Mahindra DevOps](https://cache.techmahindra.com/static/img/pdf/devOps_Brochure.pdf)e
+![Tech Mahindra ADOPT model](/assets/images/dmm/techm-dmm.jfif "Tech Mahindra Adopt")
+[Source - Tech Mahindra DevOps](https://cache.techmahindra.com/static/img/pdf/devOps_Brochure.pdf)
