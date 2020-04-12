@@ -11,11 +11,11 @@ As DevOps has crossed the chasm, what is that we should look for in analyzing De
 
 ## Microsoft
 
-![Microsoft](\dmm\ms-dmm.png "Microsoft DevOps Maturity")
+![Microsoft](dmm/ms-dmm.png "Microsoft DevOps Maturity")
 
 [Source - DevOps Self-Assessment](https://www.devopsassessment.net/)
 ## Google
-![Google](\dmm\google-dmm.png "Google DORA DevOps Assessment")
+![Google](dmm/google-dmm.png "Google DORA DevOps Assessment")
 
 [Source - Google Cloud](https://cloud.google.com/devops)
 
