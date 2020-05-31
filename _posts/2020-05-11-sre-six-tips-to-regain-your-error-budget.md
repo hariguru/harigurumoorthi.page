@@ -15,7 +15,7 @@ Error budgets can simply be defined as a quantitative measure to balance the fea
 Let us assume that you have a contractual obligation (Service Level Agreement) to provide service for 99.9% availability. Below is the math to calculate your Error Budget:
 
 |||||
-|--|--|--|--|
+|-|-|-|-|
 |**A**|ERROR BUDGET %|= 1 – 99.9%	|**= .1% OF UNAVAILABILITY**|
 |**B**|NO., OF DAYS IN A MONTH|30 DAYS||
 |**C**|TOTAL HOURS|	30 D x 24 H	|**720 HOURS**|
@@ -57,7 +57,7 @@ Toils are a significant source of value leakage. Vivek Rau of Google defines toi
 
 > “Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows.”
 
-Find opportunities to automate the process of resolving the issues. SRE Workbook provides valuable guidance for eliminating toils.
+Find opportunities to automate the process of resolving the issues. [SRE Workbook](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) provides valuable guidance for eliminating toils.
 
 ## References
 * [Risk and Error Budgets](https://www.youtube.com/watch?v=y2ILKr8kCJU)
