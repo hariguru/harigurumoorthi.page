@@ -1,5 +1,5 @@
 ---
-title: Site Reliability Engineering - technical-debt-vs-toil
+title: Technical Debt Vs Toil
 tags: [SRE, Technical Debt, Toil]
 style: fill
 color: info
