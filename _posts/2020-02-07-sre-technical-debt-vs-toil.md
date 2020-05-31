@@ -5,7 +5,7 @@ style: fill
 color: info
 description: Realizing Technical Debt is one of the key sources of Toil helps SRE Squads/teams to prioritize their automation efforts
 ---
-
+[Originally Published at TauB Solutions](https://taubsolutions.com/sre-technical-debt-vs-toil/)
 ## @ 2 a.m….
 Sreejith, a smart and young SRE engineer was on-call last Sunday. Around 2 AM he got an alert: “Azure Virtual Machine Scaled set reaching its threshold”. It took some time to get out of his deep sleep. He boosted his mind with a dose of caffeine and started running a few LogAnalytics queries to hunt down the problem. It was the last evening release that occupied the heap memory and in-turn making the Virtual Machines busy. He ran a few clean-up workbooks but unable to bring the system to normal conditions. It was time to pull the Andon Cord! He created a Slack channel to wake up the dev and other dependent teams to resolve the issue. Developers provided a patch and by 6:30 AM the system came back to normal. Sreejith was tired and wanted to take a day off, but his manager called for a post-mortem meeting at 10:00 am so that this incident doesn’t happen in the future.
 
