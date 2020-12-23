@@ -34,4 +34,4 @@ At the enterprise level, technical debt gets accumulated in two ways; supporting
 At the application level, we see technical debt in the form of Non-functional requirements like performance, security, scalability, deployability, and testability. Integrating with quality tools earlier in the development cycle reduces the impact.
 
 ## Good Related reads
-https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod
+[Gartner Use time to Engage the business for application](https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod)
