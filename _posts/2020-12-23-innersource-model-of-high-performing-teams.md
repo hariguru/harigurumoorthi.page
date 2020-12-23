@@ -2,7 +2,7 @@
 title: InnerSource model of High Performing Organizations
 tags: [InnerSource, Open Source]
 style: fill
-color: info
+color: primary
 description: InnerSource is an adaptation of OpenSource practices to code that remains proprietary and can be seen only within a single organization or a small set of collaborating organizations.
 ---
 # InnerSource model of High Performing Organizations
@@ -22,11 +22,12 @@ The Apache software foundation, consensus-driven, an open development process, w
 
  
 The Apache Way defines the principles of its success:
-•	Earned Authority
-•	Community of Peers
-•	Open Communications
-•	Consensus Driven Decision making
-•	Responsible Oversight
+* Earned Authority
+* Community of Peers
+* Open Communications
+* Consensus Driven Decision making
+* Responsible Oversight
+
 These principles define and refine the processes that are easy for the community to contribute than a rigid set of processes and practices without clarity.
 
 ## How InnerSource differ from OpenSource
@@ -35,6 +36,7 @@ The critical difference is that Innersource is under the radar of an organizatio
 > The scale at which the OpenSource project operates can teach us a few lessons—and help your business build better software faster using Innersource.
 
 ## Benefits of adopting InnerSource for Organizations
+
 ### InnerSource provides a vast advantage for scaling high performing teams. 
 It improves teams to get their feature request done of its dependent components without the long-term maintenance burden. It improves alignment with all its consumers. As the teams understand the components of other teams' organization can cross-pollinate talents.
 ### Breaking down the Silos
