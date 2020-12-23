@@ -37,13 +37,14 @@ The critical difference is that Innersource is under the radar of an organizatio
 
 ## Benefits of adopting InnerSource for Organizations
 
-### InnerSource provides a vast advantage for scaling high performing teams. 
+#### InnerSource provides a vast advantage for scaling high performing teams.
+
 It improves teams to get their feature request done of its dependent components without the long-term maintenance burden. It improves alignment with all its consumers. As the teams understand the components of other teams' organization can cross-pollinate talents.
-### Breaking down the Silos
+#### Breaking down the Silos
 As teams contribute to the teams, it is dependent on it naturally cross-pollinate ideas and talents. Over time, teams break the traditional silos culture and improve the overall value delivery flow.	
-### Spread the best-practices
+#### Spread the best-practices
 As the teams' codebase is visible and accessible, teams can learn the best practices and adapt much faster. Teams define and document the standards they expect from the contributors. For instance, Kubernetes Contribution Guide (Kubernetes Contributors Guide, n.d.) defines the value and setup for running Kubernetes, community meetups, and mentorship models. 
-### InnerSource becomes a force multiplier 
+#### InnerSource becomes a force multiplier 
 InnerSource model allows teams to temporarily act larger than their actual size during times of high demand. When the demand has ended, the team throughput scales back to normal levels, all without any micromanagement of team headcount or work items.
 
 ## Good Reads
