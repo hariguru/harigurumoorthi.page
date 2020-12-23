@@ -5,7 +5,6 @@ style: fill
 color: primary
 description: InnerSource is an adaptation of OpenSource practices to code that remains proprietary and can be seen only within a single organization or a small set of collaborating organizations.
 ---
-# InnerSource model of High Performing Organizations
 Have you ever wondered how OpenSource projects like microsoft/vscode can quickly get more than 10000 collaborators around the world effectively? Below is a screen snap from the State of [Octoverse Report 2020](https://octoverse.github.com/)
 
 ![Octoverse](/assets/images/octoverse2020.png)
