@@ -1,5 +1,5 @@
-- name: Azure DevOps
-  percentage: 95
+- name: Cloud Transformation
+  percentage: 75
   color: dark
 
 - name: Data and Visual Analytics
@@ -7,11 +7,11 @@
   color: info
 
 - name: Continuous Delivery Architecture
-  percentage: 90
+  percentage: 85
   color: dark
 
 - name: Site Reliability Engineering
-  percentage: 70
+  percentage: 75
   color: info
 
 - name: DevSecOps
