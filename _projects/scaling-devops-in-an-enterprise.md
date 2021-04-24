@@ -7,9 +7,9 @@ description: Whitepaper - From the lens of Agile and Lean
 
 # Scaling DevOps in a Digital Enterprise
 
-#### DevOps has revolutionized the way organizations manage software delivery. As every business is becoming an IT business, Software Delivery and Operational Performance plays a vital role in deploying changes, defect fixes, or configuration faster by removing waste in the delivery process. The Outcomes of software delivery and operational performance are measured not just by the speed of delivery but also by the software's stability.
+##### DevOps has revolutionized the way organizations manage software delivery. As every business is becoming an IT business, Software Delivery and Operational Performance plays a vital role in deploying changes, defect fixes, or configuration faster by removing waste in the delivery process. The Outcomes of software delivery and operational performance are measured not just by the speed of delivery but also by the software's stability.
 
-#### There are reported isolated islands of success, but the undeniable fact is that automation tools or cloud adoption to try to achieve enterprise transformation have not worked effectively. The challenge emerges when scaling the success of small teams to an enterprise-level adoption, like how Scrum, an Agile framework, struggled. Using the yardstick of a small team's DevOps practices for enterprise fails because each business unit's dynamics differ in their culture, structure, technology stack, and the competition it faces. This article analyzes the challenges in managing high-velocity changes in an enterprise from the lens of Lean and Agile principles.
+##### There are reported isolated islands of success, but the undeniable fact is that automation tools or cloud adoption to try to achieve enterprise transformation have not worked effectively. The challenge emerges when scaling the success of small teams to an enterprise-level adoption, like how Scrum, an Agile framework, struggled. Using the yardstick of a small team's DevOps practices for enterprise fails because each business unit's dynamics differ in their culture, structure, technology stack, and the competition it faces. This article analyzes the challenges in managing high-velocity changes in an enterprise from the lens of Lean and Agile principles.
 
 ## Surviving High Velocity of Change
 
