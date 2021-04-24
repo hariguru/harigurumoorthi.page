@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
+Hi I am **{{ site.author.name }}**, Son of Mother India!<br>
 My career, since 2000, has provided me with tremendous opportunities and here is what I believe my personal brand proposition is: 
 
 #### **Be a double edge sword**
