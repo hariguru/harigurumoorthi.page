@@ -23,7 +23,7 @@ For example, SRE can have the following principle.
 “We approach Reliability engineering as an extension of DevOps Principles in the delivery of Business Value by optimizing the value stream for speed and stability. We apply CALMS model.
 ![SRE Principles](/assets/images/capability-model/sre-principle.png)
 
-![Example](https://sre.google/sre-book/part-II-principles/)
+[Example](https://sre.google/sre-book/part-II-principles/)
 
 ## Defining the capabilities of SRE Practice
 Good or ChatGPT can be a good start in identifying the capabilities. As this is an iterative process involving experts in whiteboarding the capabilities at a high level. As the capabilities evolve you can cluster them into a capability domain.
@@ -43,10 +43,10 @@ This process of defining patterns is a critical part that guides the practice of
 
 Source: A Framework for Incident Response, Assessment, and Learning  - IT Revolution
 Example: 
-•	![Service Best Practices](https://sre.google/sre-book/service-best-practices/)
-•	![Postmortem Culture](https://sre.google/sre-book/postmortem-culture/)
-•	![Postmortem Template](https://www.atlassian.com/incident-management/postmortem/templates)
-•	![Response Pageduty](https://response.pagerduty.com/)
+•	[Service Best Practices](https://sre.google/sre-book/service-best-practices/)
+•	[Postmortem Culture](https://sre.google/sre-book/postmortem-culture/)
+•	[Postmortem Template](https://www.atlassian.com/incident-management/postmortem/templates)
+•	[Response Pageduty](https://response.pagerduty.com/)
 
 
 
