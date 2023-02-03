@@ -42,10 +42,15 @@ This process of defining patterns is a critical part that guides the practice of
 ![incident response patterns](/assets/images/capability-model/incident-response-pattern.png)
 
 Source: A Framework for Incident Response, Assessment, and Learning  - IT Revolution
+
 Example: 
+
 •	[Service Best Practices](https://sre.google/sre-book/service-best-practices/)
+
 •	[Postmortem Culture](https://sre.google/sre-book/postmortem-culture/)
+
 •	[Postmortem Template](https://www.atlassian.com/incident-management/postmortem/templates)
+
 •	[Response Pageduty](https://response.pagerduty.com/)
 
 
