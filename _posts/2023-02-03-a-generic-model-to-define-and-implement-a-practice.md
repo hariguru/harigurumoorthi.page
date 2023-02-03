@@ -7,7 +7,7 @@ description: Framework to helps to implement any practice.
 ---
 ![Capability Model](/assets/images/capability-model/capability-model-framework.png)
 
-Assume that you have taken a charge of heading a new division to build a practice like SRE. At first place you can ask google. But, it is 2023, so you surrender the question to ChatGPT. ChatGPT guided with the following steps:
+Assume that you have taken a charge of heading a new division to build a practice like SRE. At first place you can ask google. But, it is 2023, so you surrender the question to ChatGPT and it guided with the following steps:
 
 ![ChatGPT](/assets/images/capability-model/chatGPT.png)
 
@@ -15,7 +15,7 @@ You thought this response was generic and would attempt to ask a better question
 
 ![ChatGPT-SRE](/assets/images/capability-model/chatGPT-sre.png)
 
-Goodness! It is really good. The challenge is very point is broad. I tried different capabilities like cloud, devops, and agile. the steps are more or less the same. I thought I can help to generalize this better. So this is the blog with a picture (which can speak 1000 words) that it can’t do😊. I will explain this with an example of implementing SRE Practice.
+Goodness! It is really good. The challenge is every point is broad. I tried different capabilities like cloud, devops, and agile. the steps are more or less the same. I thought I can help to generalize this better. So this is the blog with a picture (which can speak 1000 words) that chatGPT can’t do😊. I will explain this with an example of implementing SRE Practice.
 
 ## Starting with foundational principles
 Wikipedia defines principles as “a proposition or value that is a guide for behaviour or evaluation. In law, it is a rule that has to be or usually is to be followed.” This is so important that model our every action. 
