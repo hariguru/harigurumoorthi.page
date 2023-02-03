@@ -36,14 +36,14 @@ Alert: Most organizations struggle has the skill of a resource does not match th
 ## Capability Patterns, best patterns and reference guides
 This process of defining patterns is a critical part that guides the practice of certain capabilities. Many organizations publish reference libraries for teams to apply and mature. To make the adoption faster, Artefacts are supported with tools specific snippets, examples, and templates.
 
-![incident response](/assets/images/capability-model/incident-response.png)
+![incident response patterns](/assets/images/capability-model/incident-response-pattern.png)
 
 Source: A Framework for Incident Response, Assessment, and Learning  - IT Revolution
 Example: 
-•	https://sre.google/sre-book/service-best-practices/
-•	https://sre.google/sre-book/postmortem-culture/
-•	https://www.atlassian.com/incident-management/postmortem/templates
-•	https://response.pagerduty.com/
+•	![](https://sre.google/sre-book/service-best-practices/)
+•	![](https://sre.google/sre-book/postmortem-culture/)
+•	![](https://www.atlassian.com/incident-management/postmortem/templates)
+•	![](https://response.pagerduty.com/)
 
 
 
