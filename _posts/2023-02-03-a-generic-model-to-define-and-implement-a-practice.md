@@ -7,7 +7,7 @@ description: Framework to helps to implement any practice.
 ---
 ![Capability Model](/assets/images/capability-model/capability-model-framework.png)
 
-Assume that you have taken a charge of heading a new division to build a practice like SRE. At first place you can ask google. But, it is 2023, so you surrender the question to ChatGPT. ChatGPT guided with the following steps:
+Assume that you have taken a charge of heading a new division to build a practice like SRE. At first place you can ask google. But, it is 2023, so you surrender the question to ChatGPT and it guided with the following steps:
 
 ![ChatGPT](/assets/images/capability-model/chatGPT.png)
 
@@ -15,10 +15,10 @@ You thought this response was generic and would attempt to ask a better question
 
 ![ChatGPT-SRE](/assets/images/capability-model/chatGPT-sre.png)
 
-Goodness! It is really good. The challenge is very point is broad. I tried different capabilities like cloud, devops, and agile. the steps are more or less the same. I thought I can help to generalize this better. So this is the blog with a picture (which can speak 1000 words) that it can’t do😊. I will explain this with an example of implementing SRE Practice.
+Goodness! It is really good. The challenge is every point is broad. I tried different capabilities like cloud, devops, and agile. the steps are more or less the same. I thought I can help to generalize this better. So this is the blog with a picture (which can speak 1000 words) that chatGPT can’t do😊. I will explain this with an example of implementing SRE Practice.
 
 ## Starting with foundational principles
-Wikipedia defines principles as “a proposition or value that is a guide for behaviour or evaluation. In law, it is a rule that has to be or usually is to be followed.” This is so important that model our every action. 
+Wikipedia defines principles as “a proposition or value that is a guide for behaviour or evaluation. In law, it is a rule that has to be or usually is to be followed.” This is so important that defines our every action. 
 For example, SRE can have the following principle. 
 “We approach Reliability engineering as an extension of DevOps Principles in the delivery of Business Value by optimizing the value stream for speed and stability. We apply CALMS model.
 ![SRE Principles](/assets/images/capability-model/sre-principle.png)
@@ -26,7 +26,7 @@ For example, SRE can have the following principle.
 [Example](https://sre.google/sre-book/part-II-principles/)
 
 ## Defining the capabilities of SRE Practice
-Good or ChatGPT can be a good start in identifying the capabilities. As this is an iterative process involving experts in whiteboarding the capabilities at a high level. As the capabilities evolve you can cluster them into a capability domain.
+ChatGPT can be a good start in identifying the capabilities. As this is an iterative process involving experts in whiteboarding the capabilities at a high level. As the capabilities evolve you can cluster them into a capability domain.
 ![SRE Capability Cluster](/assets/images/capability-model/sre-capability-cluster.png)
 
 Alert: Tools can bias you in defining the capabilities. These capabilities should be independent of the tools. Later these capabilities will help you to identify the right tool and getting stuck with a tool which doesn’t support a specific capability.
