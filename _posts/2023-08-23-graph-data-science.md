@@ -2,7 +2,7 @@
 title: Graph Analytics and Data Science
 tags: [graphdb, cypher]
 style: fill
-color: blue
+color: secondary
 description: Introduction to Graph Analytics and Data Science
 ---
 ## Why Graph Analytics and Data Science?
