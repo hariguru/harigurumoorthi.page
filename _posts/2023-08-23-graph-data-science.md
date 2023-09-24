@@ -9,7 +9,7 @@ description: Introduction to Graph Analytics and Data Science
 
 We are in the era of data abundance. Most of businesses try to find insights on their data for better decision making. Data lakes are **Silo Ponds** with Terra bytes of data but not connected. Find the patterns, trends, and anomalies from unrelated data is always a challenge. Graph Analytics and Data Science is a new way of looking at the data were **relationships** are first class citizens. 
 
-![Silo Ponds](/assets/images/graph-data-science/silo-ponds.png)
+![Silo Ponds](/assets/images/graph-data-analytics/silo-ponds.png)
 
 ## What is a Graph?
 Graphs are mathematical structures consisting of nodes (vertices) connected by edges (links), and they are used to model and represent complex relationships and networks. 
@@ -21,7 +21,7 @@ A graph $G = (V, E)$ consists of two sets V and E.
 The elements of V are called vertices (or nodes).
 The elements of E are called edges (or relationship).
 
-![vertex-edges](/assets/images/graph-data-science/vertex-edges.png)
+![vertex-edges](/assets/images/graph-data-analytics/vertex-edges.svg)
 
 Each edge has a set of one or two vertices associated to it, which are called its endpoints. An edge is said to join its endpoints.
 We can find graph structures in almost all the domains. Road, networks, telecom have good uses of Graphs.
