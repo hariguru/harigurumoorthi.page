@@ -1,7 +1,7 @@
 ---
 name: neo4j GDS 2.5 Graph Algorithms Periodic Table
 tools: [neo4j,gds,graph, algorithms]
-image: /assets/images/devopsmaturitymodels.jpg
+image: /assets/images/neo4j-gds-graph.jpg
 description:  Periodic Table of neo4j Graph Data Science 2.5 Graph Algorithms
 ---
 <div align="center">
