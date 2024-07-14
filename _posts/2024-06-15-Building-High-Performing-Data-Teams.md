@@ -53,7 +53,7 @@ A value stream refers to the sequence of activities necessary to deliver a produ
 A value stream always begins and ends with a customer. It encompasses the entire lifecycle of delivering value.
 Understanding value streams is crucial for making informed decisions. By mapping out these streams, organizations can allocate resources effectively and avoid wastage.
 Without this knowledge, it’s challenging to identify what’s working well and where problems exist. For instance, lengthy delays during handoffs between teams can hurt productivity and quality.
-Team can define multiple value streams based on the user journey. For instance, ODI Ways of Working defines, Front Door flow independently for new requirements, change requests, defects, and consultancy. Every flow involves certain capabilities and competencies. Below data analytics value stream flow is a simplified version of a new requirement flow.
+Team can define multiple value streams based on the user journey.
 
 ![Data Developement Value stream](/assets/images/hpdt/data-vs.png "Data Analytics Value stream")
 
